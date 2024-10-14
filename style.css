@@ -8,8 +8,8 @@ body{
 
 div{
     background-color: wheat;
-    width: 30vw;
-    height: 30vh;
+    width: 30%;
+    height: 30%;
     border-radius: 20px;
     box-shadow: 5px 5px 5px black;
 }
